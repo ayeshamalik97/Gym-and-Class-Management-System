@@ -7,8 +7,9 @@ relationships. For this project, we focused on entities such as members, instruc
 equipment, schedules, and attendance. Planning included deciding what data each entity should
 store and how they interact with each other. The main goal is to create an efficient structure
 that supports class management, attendance tracking, and equipment monitoring.
+
 Mission Statement & Objectives
-Mission Statement
+Mission Statement:
 To develop a comprehensive database management system that efficiently handles gym
 memberships, class schedules, instructor profiles, and equipment inventory, while providing
 insightful analytics on class popularity and member attendance.
@@ -19,23 +20,28 @@ Objectives
 - Manage instructor profiles and availability.
 - Enable fitness progress tracking for members (future enhancement).
 - Integrate class reminder notifications for users (future enhancement).
+- 
   System Definition
-Scope
+  
+Scope:
 This system is designed for gym owners and staff to manage day-to-day operations like
 member registrations, class schedules, instructor profiles, and equipment inventory. It allows
 tracking member attendance and analysing class popularity, helping gym managers optimize
 their resources. Future expansions include fitness progress tracking and reminder notifications
 for members.
-Purpose
+Purpose:
 To centralize and streamline gym operations, reducing manual workload and providing
 valuable insights through class popularity data, member activity tracking, and equipment
 management.
+
 User Views and Data Cross-reference
+
 USER VIEW             DATA USED
 MEMBER MANAGEMENT     Member profiles Membership types
 CLASS MANAGEMENT      Class schedules Instructor profiles
 ATTENDANCE TRACKING   Member attendance Class popularity
 EQUIPMENT TRACKING    Equipment inventory Maintenance
+
 Requirement Collection and Analysis
 Requirement-Gathering:
 For this project, requirements were collected through interviews with gym managers and
