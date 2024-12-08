@@ -38,11 +38,15 @@ User Views and Data Cross-reference
 
 USER VIEW             DATA USED
 MEMBER MANAGEMENT     Member profiles Membership types
+
 CLASS MANAGEMENT      Class schedules Instructor profiles
+
 ATTENDANCE TRACKING   Member attendance Class popularity
+
 EQUIPMENT TRACKING    Equipment inventory Maintenance
 
 Requirement Collection and Analysis
+
 Requirement-Gathering:
 For this project, requirements were collected through interviews with gym managers and
 instructors and surveys completed by members. During interviews, gym managers highlighted
@@ -58,6 +62,7 @@ analytics for class popularity were prioritized, allowing gyms to identify popul
 optimize resources. This aligns with a survey by the Pakistan Fitness Federation (PFF), which
 indicated that many gym owners seek automated systems to better manage high-demand
 classes and monitor equipment usage.
+
 Analysis:
 The data collected was analysed to prioritize the main features of the system, including member
 profile management, class schedules, attendance, and equipment inventory. Insights gained
