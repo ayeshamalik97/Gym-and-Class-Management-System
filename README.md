@@ -51,7 +51,9 @@ DATA USED:
 Member profiles Membership types
 
 Class schedules Instructor profiles
+
 Member attendance Class popularity
+
 Equipment inventory Maintenance
 
 Requirement Collection and Analysis
