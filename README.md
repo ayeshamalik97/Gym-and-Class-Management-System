@@ -36,15 +36,23 @@ management.
 
 User Views and Data Cross-reference
 
-USER VIEW                    DATA USED
+USER VIEW:
 
-MEMBER MANAGEMENT            Member profiles Membership types
+MEMBER MANAGEMENT            
 
-CLASS MANAGEMENT             Class schedules Instructor profiles
+CLASS MANAGEMENT           
 
-ATTENDANCE TRACKING          Member attendance Class popularity
+ATTENDANCE TRACKING          
 
-EQUIPMENT TRACKING           Equipment inventory Maintenance
+EQUIPMENT TRACKING           
+
+DATA USED:
+
+Member profiles Membership types
+
+Class schedules Instructor profiles
+Member attendance Class popularity
+Equipment inventory Maintenance
 
 Requirement Collection and Analysis
 
